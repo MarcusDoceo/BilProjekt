@@ -12,5 +12,7 @@ package bil;
 public class SideBranchClass {
     static public void Greetings() {
         System.out.println("Greetings!");
+        
+        System.out.println("Detta är från person 1");
     }
 }
